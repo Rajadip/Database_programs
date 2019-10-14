@@ -3,6 +3,7 @@
  tablewise, for given database.
 
  The data sizes are in MB
+ MySQL5.7 and MariaDB10.1
  */
 
 SELECT table_name AS "Table", 

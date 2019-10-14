@@ -4,6 +4,7 @@ This creates the backup of database and data in it in form of sql statements.
 Create table statements of tables and insert statements of data in the database.
 
 requirements:
+    python3 or greater
 	pymysql
 
 '''

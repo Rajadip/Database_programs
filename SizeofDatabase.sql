@@ -1,7 +1,9 @@
 /*
  This file contains various sql Queries which will
  give you the size of databases in various manners
- 
+
+ MySQL5.7 and MariaDB10.1
+
  */
 /************For Perticular Database*******************/
 SELECT
